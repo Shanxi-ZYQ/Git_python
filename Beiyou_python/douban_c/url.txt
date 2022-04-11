@@ -1,0 +1,17 @@
+curl "https://book.douban.com/tag/^%^E7^%^A5^%^9E^%^E7^%^BB^%^8F^%^E7^%^BD^%^91^%^E7^%^BB^%^9C" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Accept-Language: zh-CN,zh;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cache-Control: max-age=0" ^
+  -H "Connection: keep-alive" ^
+  -H "Cookie: bid=z2CKEsuxn4M; douban-fav-remind=1; __gads=ID=2bdea7afd6b40794-228aaa28c4ca00bf:T=1628687094:RT=1628687094:S=ALNI_MahXV-pYty8jC0B6l7zzSIXfA1tkw; gr_user_id=5cdaddd7-e4f6-464b-a53f-fe19ccfb7365; _vwo_uuid_v2=D9AC8EA65C2F6765C9B01151FD61D4F47^|c645412efb1630324044a99f1ffdf690; __yadk_uid=GXAd0CsufSZScISeYqiDHQdBct509x3C; ll=^\^"118099^\^"; __utmc=30149280; __utmz=30149280.1648784467.5.5.utmcsr=baidu^|utmccn=(organic)^|utmcmd=organic; __utmc=81379588; __utmz=81379588.1648784469.2.2.utmcsr=douban.com^|utmccn=(referral)^|utmcmd=referral^|utmcct=/; viewed=^\^"35044046_30317874^\^"; ap_v=0,6.0; _pk_ref.100001.3ac3=^%^5B^%^22^%^22^%^2C^%^22^%^22^%^2C1648794687^%^2C^%^22https^%^3A^%^2F^%^2Fwww.douban.com^%^2F^%^22^%^5D; __utma=30149280.1329426940.1628687098.1648784467.1648794687.6; __utma=81379588.353269464.1644119379.1648784469.1648794687.3; _pk_id.100001.3ac3=652f2435b018d10e.1644119380.3.1648794728.1648784502." ^
+  -H "Referer: https://book.douban.com/" ^
+  -H "Sec-Fetch-Dest: document" ^
+  -H "Sec-Fetch-Mode: navigate" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-User: ?1" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" ^
+  -H "sec-ch-ua: ^\^" Not A;Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"100^\^", ^\^"Google Chrome^\^";v=^\^"100^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  --compressed
